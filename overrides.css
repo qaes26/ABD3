@@ -1,0 +1,8 @@
+.contact-grid {
+  grid-template-columns: 1fr;
+  gap: 0;
+}
+
+.contact-copy {
+  max-width: 570px;
+}
